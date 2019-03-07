@@ -1,9 +1,10 @@
 ---
 layout: post
-title: hello world
+title: I love you more everyday, click on the about
 date: 2019-02-06 23:15 -0800
 category: personal
 tags: fun
 ---
 Hi there, this is a post to my jekyll site
-Please remember to rage against the machine
+
+click on the about link for some fun photos

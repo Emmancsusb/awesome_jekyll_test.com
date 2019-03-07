@@ -23,12 +23,11 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  background-color: #cec1e7;
   font-family: Athelas, Palatino, Georgia, serif;
   font-size: 16px;
   line-height: 1.5;
   color: #2B2826;
-   }
+  background-color: #cec1e7; }
 
 p {
   margin-top: 0;

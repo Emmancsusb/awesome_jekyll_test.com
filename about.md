@@ -13,6 +13,6 @@ My love and I
 
 
 
-Hello I'm manny and this is my blog.
+Hello I'm manny and this is my blog. duh
 
 I have some cool [projects](/projects) you might want to check out.

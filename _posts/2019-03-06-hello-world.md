@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I love you more everyday, click on the about
+title: I love you more everyday, click on the about link 
 date: 2019-02-06 23:15 -0800
 category: personal
 tags: fun
